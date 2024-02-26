@@ -17,12 +17,14 @@ In this project, I conducted various SQL analyses using the public dataset of Ch
 
 ## Istanbul Earthquake Scenario Analysis
 
+In this project, I generated reports using the dataset of Istanbul Earthquake Scenario Analysis Results from the Istanbul Metropolitan Municipality Open Data Portal. I performed various SQL analyses on BigQuery and visualized the results.
+
 ![Report 1](21.png)
 ![Report 2](22.png)
 ![Report 3](23.png)
 ![Report 4](24.png)
 
-In this project, I generated reports using the dataset of Istanbul Earthquake Scenario Analysis Results from the Istanbul Metropolitan Municipality Open Data Portal. I performed various SQL analyses on BigQuery and visualized the results.
+
 
 - [View Reports](https://lookerstudio.google.com/reporting/12153dba-378a-41f9-854e-efcc3b61cf3c)
 
