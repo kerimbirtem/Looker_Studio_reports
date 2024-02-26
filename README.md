@@ -8,6 +8,11 @@ This repository contains reports of projects completed during the Data Analyst B
 
 In this project, I conducted various SQL analyses using the public dataset of Chicago Crimes in the BigQuery environment. Subsequently, I created reports from these analyses using Looker Studio.
 
+![Report 1](11.png)
+![Report 2](12.png)
+![Report 3](13.png)
+
+
 - [View Reports](https://lookerstudio.google.com/reporting/1c0a926f-e133-477f-9cf1-dbcd7aa7268c)
 
 ## Istanbul Earthquake Scenario Analysis
